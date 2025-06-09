@@ -15,12 +15,12 @@ Admin dashboard for managing disease/symptom datasets (if applicable)
 
 Technologies Used:
 
-Frontend: HTML, CSS, JavaScript, React (optional)
-Backend: Python (Flask/Django)
+Frontend: Streamlit
+Backend: Python (Machine Learning Models)
 Machine Learning: Scikit-learn, Pandas, NumPy
-Database: MySQL / MongoDB / Firebase
-Model: Decision Tree / Random Forest / Naive Bayes (or custom ML model)
-Optional: Android app (Java/Kotlin), REST API, cloud deployment
+Database: Kaggle
+Model: Linear Regression / Random Forest / SVM 
+
 
 Use Cases:
 
